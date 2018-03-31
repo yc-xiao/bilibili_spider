@@ -1,0 +1,5 @@
+511203660(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'2889353,"ukyo小天使~~~","http://i1.hdslb.com/bfs/face/5c11064395f838916181e4b\' at line 1')
+2542831460(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'270482,"qq交友群：511346573 网易云电台：娅娘的同人音声分享 \' at line 1')
+353961060(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'385014,"我舔！我舔！我舔！我舔！我舔！我舔！我舔！我舔！\' at line 1')
+147546660(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'11182259,"看我视频不看简介的都是傻蛋！漏气网红水群 【392121\' at line 1')
+275368560(1064, 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'1223096,"人生不就是这样，起起落落，起起落落落落落落落落\' at line 1')
