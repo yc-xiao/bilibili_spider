@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-# @Time   ： 2018/3/21 16:30
 from SaveData import SaveData
 import requests
 import os
