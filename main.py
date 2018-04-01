@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-# @Time   ： 2018/3/29 18:58
+
 from Spider import Spider
 from multiprocessing.managers import BaseManager
 from multiprocessing import Queue, Process, Pool
