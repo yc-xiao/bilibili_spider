@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-# @Time   ： 2018/3/21 10:16
+
 
 import requests
 import json
@@ -18,7 +18,7 @@ class Downloader(object):
     def download(self, url):
         try:
             response = requests.get(url, headers=self.header, timeout=5)
-            # time.sleep(0.1)
+            time.sleep(0.5)
             if response.status_code == 200:
                 return response.text
         except Exception as e:
@@ -86,7 +86,7 @@ class Downloader(object):
         data = {'mid': user_id, 'csrf': 'null'}
         try:
             response = requests.post(url, headers=header, data=data, timeout=5)
-            time.sleep(0.1)
+            time.sleep(0.5)
             if response.status_code == 200:
                 user_datas = json.loads(response.text)
                 name = user_datas['data']['name']
