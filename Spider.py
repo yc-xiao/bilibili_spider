@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-# @Time   ： 2018/3/21 10:10
+
 from Downloader import Downloader
 from URLManger import UrlManger
 from SaveData import SaveData
