@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-# @Time   ： 2018/3/21 10:11
 
 
 class UrlManger(object):
