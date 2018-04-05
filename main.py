@@ -87,7 +87,7 @@ if __name__ == "__main__":
     if path not in pickle:
         start = time.time()
         url = 'https://www.bilibili.com/index/rank/all-30-3.json'
-        spider_main.crawl(url, path)
+        
         
         try:
             spider_main.crawl(url, path)
